@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body,
+html {
+  background-color: oklch(14.5% 0 0);
+  color: oklch(87% 0 0);
+  margin: 0;
+  padding: 0;
+}
